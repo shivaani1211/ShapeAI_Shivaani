@@ -1,5 +1,3 @@
-# ShapeAI_Shivaani
-Basic Python and Deep Learning-7 Days Hands on Bootcamp
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
